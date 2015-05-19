@@ -1,0 +1,4 @@
+C:\Users\Mauro\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\MultiSlotClipboard\1.0\\MultiSlotClipboard.dll
+C:\Users\Mauro\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\MultiSlotClipboard\1.0\\MultiSlotClipboard.pkgdef
+C:\Users\Mauro\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\MultiSlotClipboard\1.0\\extension.vsixmanifest
+C:\Users\Mauro\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\MultiSlotClipboard\1.0\\MultiSlotClipboard.pdb
